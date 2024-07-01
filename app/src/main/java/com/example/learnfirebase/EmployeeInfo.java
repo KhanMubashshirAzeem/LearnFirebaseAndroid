@@ -4,15 +4,15 @@ public class EmployeeInfo {
 
     // string variable for
     // storing employee name.
-    private String employeeName;
+    private String userName;
 
     // string variable for storing
     // employee contact number
-    private String employeeContactNumber;
+    private String userContactNumber;
 
     // string variable for storing
     // employee address.
-    private String employeeAddress;
+    private String userAddress;
 
     // an empty constructor is
     // required when using
@@ -23,28 +23,28 @@ public class EmployeeInfo {
 
     // created getter and setter methods
     // for all our variables.
-    public String getEmployeeName() {
-        return employeeName;
+    public String getUserName() {
+        return userName;
     }
 
-    public void setEmployeeName(String employeeName) {
-        this.employeeName = employeeName;
+    public void setUserName(String userName) {
+        this.userName = userName;
     }
 
-    public String getEmployeeContactNumber() {
-        return employeeContactNumber;
+    public String getUserContactNumber() {
+        return userContactNumber;
     }
 
-    public void setEmployeeContactNumber(String employeeContactNumber) {
-        this.employeeContactNumber = employeeContactNumber;
+    public void setUserContactNumber(String userContactNumber) {
+        this.userContactNumber = userContactNumber;
     }
 
-    public String getEmployeeAddress() {
-        return employeeAddress;
+    public String getUserAddress() {
+        return userAddress;
     }
 
-    public void setEmployeeAddress(String employeeAddress) {
-        this.employeeAddress = employeeAddress;
+    public void setUserAddress(String userAddress) {
+        this.userAddress = userAddress;
     }
 }
 
