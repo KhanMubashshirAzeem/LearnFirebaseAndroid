@@ -5,7 +5,6 @@ Here we are learning how to use Firebase DB in Android Studio and the we will pe
 ### Operations we performed in this project is:
 1. Save data to realtime firebase DB.
 2. Retrieve data from realtime firebase DB.
-3. 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khanmubashshir/)
